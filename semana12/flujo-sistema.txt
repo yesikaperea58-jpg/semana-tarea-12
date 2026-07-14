@@ -1,0 +1,7 @@
+1. Un ciudadano crea una causa dentro de la plataforma.
+2. La causa se registra en la base de datos con su título, descripción y fecha.
+3. Otros ciudadanos revisan la causa y deciden apoyar la iniciativa.
+4. Cada apoyo se guarda asociado a la causa correspondiente.
+5. El sistema cuenta los apoyos recibidos para mostrar el avance de la petición.
+6. Cuando la causa alcanza el nivel requerido, el sistema genera un documento PDF formal.
+7. El documento puede ser compartido con la comunidad o presentado como respaldo oficial.
